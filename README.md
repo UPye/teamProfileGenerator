@@ -24,11 +24,11 @@ Added a standard index.html mockup draft to better assist with building the page
 # CSS changes
 Added few CSS stylings since HTML contained bootstrap link sources.
 ## Link to site
-<iframe src="https://drive.google.com/file/d/131fB2tBbjuImxfsSBLgydv3l0WAXL6rf/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/131fB2tBbjuImxfsSBLgydv3l0WAXL6rf/preview
 https://drive.google.com/file/d/131fB2tBbjuImxfsSBLgydv3l0WAXL6rf/view
 
 ## Screenshot of landing page
-![alt text](imgs\landingPageScreenshot.jpg)
+![alt text](G:\Projects\teamProfileGenerator\imgs\landingPageScreenshot.jpg)
 ## Credits
 I want to thank Carlos and Anthony for assisting me over the hurdles of this project. Without Carlos hammering out a final few things I was missing to make this application work, really was helpful.
 ## Some help from the web
