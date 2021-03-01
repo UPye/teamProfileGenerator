@@ -28,7 +28,7 @@ https://drive.google.com/file/d/131fB2tBbjuImxfsSBLgydv3l0WAXL6rf/preview
 https://drive.google.com/file/d/131fB2tBbjuImxfsSBLgydv3l0WAXL6rf/view
 
 ## Screenshot of landing page
-![alt text](http://imgs/landingPageScreenshot.jpg)
+![alt text](https://github.com/UPye/teamProfileGenerator/blob/imgs/landingPageScreenshot.jpg?raw=true)
 ## Credits
 I want to thank Carlos and Anthony for assisting me over the hurdles of this project. Without Carlos hammering out a final few things I was missing to make this application work, really was helpful.
 ## Some help from the web
