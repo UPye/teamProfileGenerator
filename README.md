@@ -28,7 +28,7 @@ Added few CSS stylings since HTML contained bootstrap link sources.
 https://drive.google.com/file/d/131fB2tBbjuImxfsSBLgydv3l0WAXL6rf/view
 
 ## Screenshot of landing page
-![alt text](imgs\landingPageScreenshot)
+![alt text](imgs\landingPageScreenshot.jpg)
 ## Credits
 I want to thank Carlos and Anthony for assisting me over the hurdles of this project. Without Carlos hammering out a final few things I was missing to make this application work, really was helpful.
 ## Some help from the web
