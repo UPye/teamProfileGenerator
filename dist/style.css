@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  .title {
+    background: #D84030;
+    text-align: center;
+    color: #901838;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+  }
+  
+
+  
+  .card-body {
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 200px;
+  }
+  
+  .text-white {
+    width: auto;
+    background: #D84030;
+  }
+  
+  .card ul {
+    font-size: 12px;
+  }
+  
+  .card-header {
+    background: #901838;
+    color: #eee;
+  }
+
+  a {
+    color: white;
+  }
