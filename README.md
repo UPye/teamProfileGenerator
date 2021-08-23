@@ -12,7 +12,6 @@
 * [Link to site](#link-to-site)
 * [Screenshot](#screenshot-of-landing-page)
 * [Credits](#credits)
-* [Some help from the web](#some-help-from-the-web)
 * [License](#license)
 
 ## Overview
@@ -30,8 +29,7 @@ https://drive.google.com/file/d/131fB2tBbjuImxfsSBLgydv3l0WAXL6rf/view
 ## Screenshot of landing page
 ![alt text](https://github.com/UPye/teamProfileGenerator/blob/main/imgs/landingPageScreenshot.jpg)
 ## Credits
-I want to thank Carlos and Anthony for assisting me over the hurdles of this project. Without Carlos hammering out a final few things I was missing to make this application work, really was helpful.
-## Some help from the web
+I want to thank Carlos and Anthony for assisting me over the hurdles of this project. Without Carlos hammering out a final few things I was missing, I wouldn't have been able to make this application work, really was helpful.
 ## License
 Copyright (c) 2012-2020 Scott Chacon and others
 Permission is hereby granted, free of charge, to any person obtaining
