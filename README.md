@@ -9,7 +9,7 @@
 * [Installation](#installation)
 * [Html changes](#html-changes)
 * [CSS changes](#css-changes)
-* [Link to site](#link-to-site)
+* [Link to site](#link-to-walkthrough-video)
 * [Screenshot](#screenshot-of-landing-page)
 * [Credits](#credits)
 * [License](#license)
@@ -22,7 +22,7 @@ You will need to install inquirer, jest, and node (if not already downloaded) in
 Added a standard index.html mockup draft to better assist with building the page-template.js file. 
 # CSS changes
 Added few CSS stylings since HTML contained bootstrap link sources.
-## Link to site
+## Link to walkthrough video
 https://drive.google.com/file/d/131fB2tBbjuImxfsSBLgydv3l0WAXL6rf/preview
 https://drive.google.com/file/d/131fB2tBbjuImxfsSBLgydv3l0WAXL6rf/view
 
